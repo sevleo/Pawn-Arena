@@ -1,0 +1,13 @@
+[submodule "TaggingGame-frontend"]
+	path = TaggingGame-frontend
+	url = https://github.com/sevleo/TaggingGame-frontend
+[submodule "TaggingGame-backend"]
+	path = TaggingGame-backend
+	url = https://github.com/sevleo/TaggingGame-backend
+
+
+
+# git submodule init
+# git submodule update
+# git submodule update --remote --merge TaggingGame-frontend
+# git submodule update --remote --merge TaggingGame-backend
