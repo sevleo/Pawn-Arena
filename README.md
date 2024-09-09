@@ -156,6 +156,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [product-screenshot]: images/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Vue.js]: https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue
 [Vue-url]: https://vuejs.org/
 [Node.js]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E
 [Node-url]: https://nodejs.org/en
