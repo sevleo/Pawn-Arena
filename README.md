@@ -47,11 +47,10 @@
 [![Typescript][Typescript]][Typescript-url]
 [![Javascript][Javascript]][Javascript-url]
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
-[![MongoDB][MongoDB]][MongoDB-url]
 
 ### Hosting
 
-- [Adaptable.io](https://adaptable.io/) - to host backend
+- [Fly.io](https://fly.io/) - to host backend
 - [Netlify](https://www.netlify.com) - to host frontend
 
 ### Other notable libraries and toolkits
@@ -68,50 +67,6 @@
 - [Lodash](https://lodash.com/) - for sorting functions
 - [MongooseJs](https://mongoosejs.com/) - to model application data
 - [Elevenlabs.io](https://elevenlabs.io/) - to generate pose announcements
-
-<!-- USAGE EXAMPLES -->
-
-<!-- ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-Yogato 1.0 enhancements:
-
-- [x] Add ability to change view of poses in the designer: by categories, by names
-- [x] Add ability to search for poses in the designer
-- [x] Allow user update & reset their password
-- [x] Allow to specify displayName
-- [x] Update catalog of poses to include left-side & right-side poses
-- [x] Add final sound to signal the end of the sequence
-- [x] Add a few seconds of time to prepare before the sequence begins
-- [x] Add "Save" feedback from the app, e.g. green Success message and red Error message
-
-Yogato 1.1 features:
-
-- [ ] Add ability to publish your flow to shared library
-- [ ] Add ability to explore the library
-- [ ] Add ability to rate flows created by other users
-- [ ] Add ability to copy flows created by other users
-
-Yogato 1.2 features:
-
-- [ ] Add Feedback page
-- [ ] Allow to specify recovery email
-- [ ] Change Google login to a pop-up instead of redirect
-
-Yogato 1.3 features:
-
-- [ ] Add ability to save several poses to a set
-- [ ] Add ability to switch between Set views and Poses views in the designer
-<!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
 
 <!-- CONTRIBUTING -->
 
@@ -147,8 +102,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
-- [rebeccaestes](https://github.com/rebeccaestes/yoga_api), [stuwert](https://github.com/Stuwert/yoga-builder), and [alexcumplido](https://github.com/alexcumplido/yoga-api?tab=readme-ov-file) for providing poses descriptions and images.
-- [emma goto](https://www.emgoto.com/react-table-of-contents/) for implementation of table of contents
+- Shout out to Gabriel Gambetta for writing an incredible [article](https://www.gabrielgambetta.com/client-server-game-architecture.html) on how to execute client prediction, reconciliation, and interpolation in a live action online game.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
