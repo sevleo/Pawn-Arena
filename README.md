@@ -7,7 +7,7 @@
   <p align="center">
     Open source Yoga Sequence Builder
     <br />
-    <a href="https://yogato.netlify.app">View Demo</a>
+    <a href="https://pawn-arena.netlify.app/">View Game</a>
     ·
     <a href="https://github.com/sevleo/Pawn-Arena/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -27,7 +27,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
