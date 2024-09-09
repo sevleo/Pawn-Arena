@@ -42,7 +42,7 @@
 
 ### Main technologies
 
-[![React][React.js]][React-url]
+[![Vue][Vue.js]][React-url]
 [![NodeJs][Node.js]][Node-url]
 [![Typescript][Typescript]][Typescript-url]
 [![Javascript][Javascript]][Javascript-url]
@@ -156,6 +156,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [product-screenshot]: images/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Vue-url]: https://vuejs.org/
 [Node.js]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E
 [Node-url]: https://nodejs.org/en
 [Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=#3178C6
