@@ -10,7 +10,6 @@
     <a href="https://pawn-arena.netlify.app/">View Game</a>
     ·
     <a href="https://github.com/sevleo/Pawn-Arena/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
   </p>
 </div>
 
@@ -39,7 +38,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://yogato.netlify.app)
+[![Product Name Screen Shot][product-screenshot]](https://pawn-arena.netlify.app/)
 
 ### Main technologies
 
