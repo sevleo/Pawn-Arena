@@ -55,18 +55,8 @@
 
 ### Other notable libraries and toolkits
 
-- [DND Kit](https://dndkit.com/) - to control drag & drop
-- [uuid](https://www.npmjs.com/package/uuid)- to generate unique id
-- [hamburger-react](https://www.npmjs.com/package/hamburger-react) - to add hamburger menu
-- [react-slick](https://react-slick.neostack.com/) - to make smooth slider in the player
-- [react-use-precision-timer](https://www.npmjs.com/package/react-use-precision-timer) - to make accurate flow timer
-- [Axios](https://axios-http.com/) - for communication with server
-- [date-fns](https://date-fns.org) - for date formatting
-- [Passportjs](http://www.passportjs.org/) - for authentication and session management
-- [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - to make sound announcements to work properly on mobile browsers
-- [Lodash](https://lodash.com/) - for sorting functions
-- [MongooseJs](https://mongoosejs.com/) - to model application data
-- [Elevenlabs.io](https://elevenlabs.io/) - to generate pose announcements
+- [Matter.js](https://brm.io/matter-js/) - for collision detection
+- [WebSockets API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) - for live communication between server and clients
 
 <!-- CONTRIBUTING -->
 
